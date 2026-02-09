@@ -1,16 +1,23 @@
-## Hi there 👋
+# Well, well, well... look who stumbled into my repo
 
-<!--
-**Afraaaaaim/Afraaaaaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![well](https://media1.tenor.com/m/cBc1IwbwskUAAAAd/vaughnpena.gif)
 
-Here are some ideas to get you started:
+You've descended into the depths. Welcome to where I dump my code and hope it compiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's down here
+
+Projects that either solve problems or create new ones. Sometimes both simultaneously.
+
+**Built with:** FastApi • Docker • PostgreSQL • MongoDB • Some Other useless stuff
+
+**Currently exploring:** Rust (because I enjoy pain)
+
+## The water's fine
+
+Most of my work is in the pinned repos below. The rest are abandoned experiments from 2am coding sessions.
+
+Feel free to draw some knowledge from the well, just don't blame me if the bucket comes up empty.
+
+---
+
+*"In the well of code, we're all just trying not to drown" - ancient developer proverb I just made up*

@@ -4,7 +4,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Afraaaaaim.Afraaaaaim)
 
-You've descended into the depths. Welcome to where I dump my code and hope it compiles.
+Welcome to where I dump my code and hope it compiles.
 
 ---
 
@@ -22,18 +22,11 @@ Projects that either solve problems or create new ones. Sometimes both simultane
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**Currently exploring:**
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) *(because I enjoy pain)*
 
 ---
 
 ## The numbers don't lie (but they do judge)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afraaaaaim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afraaaaaim&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afraaaaaim&theme=tokyonight&hide_border=true" />
@@ -41,7 +34,7 @@ Projects that either solve problems or create new ones. Sometimes both simultane
 
 ---
 
-## The water's fine
+## <Insert it's fine meme here>
 
 Most of my work is in the pinned repos below. The rest are abandoned experiments from 2am coding sessions.
 
